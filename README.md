@@ -9,9 +9,9 @@
 
 ## Baca Dulu Mas Mba
 ╭──❒ <b>All MENU BOT</b><br>
-├• 📌 #pushkontak [text]<br>
+├• 📌 #pushkontak [+6282148071146]<br>
 ├• 📌 #pushid [idgroup]|[text]<br>
-├• 📌 #savekontak [idgroup]<br>
+├• 📌 #savekontak [Adit YF]<br>
 ├• 📌 #getidgc<br>
 └────────────><br>
 > Untuk mendapatkan <b>idgroup</b> kirim pesan <b>#getidgc</b> pastikan anda telah masuk ke group target agar anda dapat mengirim pesan keseluruh member group. Import file yang dihasilkan dari <b>#savekontak [idgroup]</b> untuk menyimpan kontak.
